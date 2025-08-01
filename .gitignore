@@ -1,0 +1,17 @@
+# Environments
+env/
+.venv/
+venv/
+
+# Cache & temp
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data & models
+data/
+*.csv
+*.h5
+*.pt
+*.pkl
