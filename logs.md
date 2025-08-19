@@ -56,3 +56,7 @@ Day 10 - 06/08/25
 Day 11 - 07/08/25
     labels until now, all the percentages are considered which were from class_attribute_labels_continuous, 
     target label => certainity, is_present, percentage 
+
+
+## ***Pausing the Bird classification project for a while as I have given a break for some reason where I have realized that gen AI interests me more and I will be starting a project on it. I will get back to this project once I am done that or when I feel like doing this again.***
+
